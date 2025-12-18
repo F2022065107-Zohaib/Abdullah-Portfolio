@@ -1,0 +1,8 @@
+{
+  "name": "Abdullah Pervaiz Portfolio",
+  "description": "A premium, Gen-Z inspired professional portfolio for a high-impact video editor and thumbnail designer.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
